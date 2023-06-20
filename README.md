@@ -1,6 +1,6 @@
 # Welcome to AmaXone
 
-AmaXone E-commerce Store is a comprehensive e-commerce website built using PHP, HTML and TailwindCss. 
+AmaXone E-commerce Store is a comprehensive e-commerce website built using PHP7, HTML5 and TailwindCSS. 
 It facilitates business transactions between service providers and customers, offering features like product management, shopping cart, order management, payment gateways, customer management, and much more.
 
 ## Features
