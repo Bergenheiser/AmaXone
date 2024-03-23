@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <link rel="icon" type="image/jpg" href="../assets/images/alteer.png"/>
     <link rel="stylesheet" href="../assets/CSS/style.css"/>
-    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+    <script defer src="https://cdn.tailwindcss.com"></script>
     <script defer src="https://unpkg.com/alpinejs@3.2.4/dist/cdn.min.js"></script>
     <title><?php echo $pagetitle; ?></title>
 </head>
